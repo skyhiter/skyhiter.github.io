@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.skyhiter.com/post/first-post/</loc>
-    <lastmod>2019-05-23T02:53:40+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.skyhiter.com/</loc>
-    <lastmod>2019-05-23T02:53:40+08:00</lastmod>
+    <lastmod>2019-05-23T09:11:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.skyhiter.com/post/</loc>
-    <lastmod>2019-05-23T02:53:40+08:00</lastmod>
+    <loc>https://www.skyhiter.com/mypostfirst/</loc>
+    <lastmod>2019-05-23T09:11:46+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.skyhiter.com/mypostfirst/thisismyfirstpost/</loc>
+    <lastmod>2019-05-23T09:11:46+08:00</lastmod>
   </url>
   
   <url>
